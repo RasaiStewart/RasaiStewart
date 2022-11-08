@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RasaiStewart
 - 👀 I’m interested in cyber security, data science, bioinformatics, artificial intelligence, research, web development and web design.
-- 🌱 I’m currently a 2nd year Computer Science student at the University of Greenwich.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m a graduate of Computer Science (AI) from the University of Greenwich.
+- 💞️ I’m looking to collaborate on web design/development projects.
+- 📫 I can be contacted at rasaistewart@gmail.com, rasaistewart@yahoo.com, Facebook, Twitter and Linkedin.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RasaiStewart
 - 👀 I’m interested in cyber security, data science, Full-stack development, artificial intelligence, research, web development and web design.
-- 🌱 I’m a graduate of Computer Science (AI) from the University of Greenwich. Awarded student of the year in two consecutive years. With 1-2 years experience in the fields of IT and Technology.
+- 🌱 I am a two-time winner of the Student of the Year award, a graduate of Computer Science (AI) from the University of Greenwich with a strong background in IT and Technology and 2 years of experience in IT and Technology.
 - 💞️ I’m looking to collaborate on web design/development, artificial intelligence, cyber security and data science projects on a freelance and permanent basis.
-- 📫 I can be contacted on, Facebook, Twitter and Linkedin.
+- 📫 I can be contacted on Facebook, Twitter, Linkedin and by email.

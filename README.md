@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RasaiStewart
-- 👀 I’m interested in cyber security, data science, Full-stack development, artificial intelligence (AI), machine learning (ML), research, web development, web design and science and technology writing.
+- 👀 I’m interested in cyber security, digital forensics, data science, Full-stack development, artificial intelligence (AI), machine learning (ML), research, cryptography, web development, web design and science and technology writing.
 - 🌱 I am a two-time winner of the Student of the Year award, a graduate of Computer Science (AI) from the University of Greenwich with a strong background in IT and Technology, 2 years of experience in IT and Technology and 13 years of experience creating social media posts about the latest technological advancements via Facebook, Twitter and more recently Linkedin.
 - 💞️ I’m looking to collaborate on web design/development, artificial intelligence, cyber security and data science projects on a freelance, part-time and permanent basis.
 - 📫 I can be contacted on Facebook, Twitter, Linkedin and by email.

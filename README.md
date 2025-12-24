@@ -8,6 +8,6 @@ In addition, my ability to write scientific articles is illustrated through achi
 
 My passion for technology is ever-evolving, and I am enthusiastic about a range of fields, including cyber security, digital forensics, data science, Full-stack development, artificial intelligence (AI), machine learning (ML), research, cryptography, web development, web design, science and technology writing, editing, and journalism.
 
-I am currently seeking opportunities to collaborate on exciting projects in web design/development, artificial intelligence (AI), machine learning,  cyber security, data science, and scientific and technology writing projects on a freelance, part-time, contract or permanent basis. If you're looking for someone with a passion for innovation, excellent attention to detail, a strong work ethic, resilience, and a commitment to excellence look no further.
+I am currently seeking opportunities to collaborate on exciting projects in web design/development, artificial intelligence (AI), machine learning, agentic AI,  cyber security, data science, and scientific and technology writing projects on a freelance, part-time, contract or permanent basis. If you're looking for someone with a passion for innovation, excellent attention to detail, a strong work ethic, resilience, and a commitment to excellence look no further.
 
 You can connect with me on GitHub, Dots, Facebook, Twitter, LinkedIn, or via email, and I would be happy to discuss how my  design, programming and troubleshooting skills can benefit you and your team at any time.
